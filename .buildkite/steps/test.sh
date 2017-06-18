@@ -73,11 +73,7 @@ cat << EOF > config.json
   },
   {
     "ParameterKey": "InstanceType",
-    "ParameterValue": "t1.micro"
-  },
-  {
-    "ParameterKey": "SpotPrice",
-    "ParameterValue": "0.02"
+    "ParameterValue": "t2.nano"
   },
   {
     "ParameterKey": "VpcId",
